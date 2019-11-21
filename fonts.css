@@ -1,6 +1,6 @@
 @font-face {
 font-family: "Yale";
-src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.woff") format("woff");
+src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.woff")format("woff");
 font-display:auto;
 font-weight:normal;
 font-style:normal;
@@ -8,7 +8,7 @@ font-style:normal;
 
 @font-face {
 font-family: "Yale";
-src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-bold-webfont.woff") format("woff");
+src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-bold-webfont.woff")format("woff");
 font-display:auto;
 font-weight:bold;
 font-style:normal;
@@ -16,8 +16,8 @@ font-style:normal;
 
 @font-face {
 font-family:"NeueHaasUnicaPro";
-src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff") format("woff"),
-url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff2") format("woff2");
+src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff")format("woff"),
+url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff2")format("woff2");
 font-display:auto;
 font-weight:normal;
 font-style:normal;
@@ -25,8 +25,8 @@ font-style:normal;
 
 @font-face {
 font-family:"NeueHaasUnicaPro";
-src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_0_0.woff") format("woff"),
-url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_0_0.woff2") format("woff2");
+src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_0_0.woff")format("woff"),
+url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_0_0.woff2")format("woff2");
 font-display:auto;
 font-weight:bold;
 font-style:normal;
