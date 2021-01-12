@@ -2,7 +2,8 @@
   font-family: 'NeueHaasUnicaPro';
   font-style: normal;
   font-weight: 400;
-  src: url(https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff2) format('woff2');
+  mso-font-alt: 'Arial';
+  src: url(https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff) format('woff'), url(https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff2) format('woff2');
 }
 
 
@@ -10,7 +11,6 @@
   font-family: 'Yale';
   font-style: normal;
   font-weight: 400;
+  mso-font-alt: 'Georgia';
   src: url(https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.woff) format('woff');
 }
-
-
