@@ -1,51 +1,31 @@
-@font-face {
-  font-family:"Yale";
-  font-style: normal;
-  font-weight: 400;
-  mso-font-alt: "Georgia";
-  src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.woff") format("woff");
-}
+ @font-face {
+      font-family: 'Yale';
+      src: url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.woff") format("woff");
+      font-weight: normal;
+      font-style: normal;
+      mso-font-alt: 'Georgia';
+    }
 
-@font-face {
-  font-family:"Yale";
-  font-style: normal;
-  font-weight: 800;
-  mso-font-alt: "Georgia";
-  src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-bold-webfont.woff") format("woff");
-}
+    @font-face {
+      font-family: 'Yale';
+      src: url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-bold-webfont.woff") format("woff");
+      font-weight: bold;
+      font-style: normal;
+      mso-font-alt: 'Georgia';
+    }
 
-@font-face {
-font-family:"neue-haas-unica";
-src:url("https://use.typekit.net/af/034166/00000000000000003b9b2056/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff2"),url("https://use.typekit.net/af/034166/00000000000000003b9b2056/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff"),url("https://use.typekit.net/af/034166/00000000000000003b9b2056/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:800;
-}
+    @font-face {
+      font-family: 'NeueHaasUnicaPro';
+      src: url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff") format("woff"), url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff2") format("woff2");
+      font-weight: normal;
+      font-style: normal;
+      mso-font-alt: 'Arial';
+    }
 
-@font-face {
-font-family:"neue-haas-unica";
-src:url("https://use.typekit.net/af/6a58f8/00000000000000003b9b2058/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"),url("https://use.typekit.net/af/6a58f8/00000000000000003b9b2058/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"),url("https://use.typekit.net/af/6a58f8/00000000000000003b9b2058/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:600;
-}
-
-@font-face {
-font-family:"neue-haas-unica";
-src:url("https://use.typekit.net/af/a77a8d/00000000000000003b9b2059/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff2"),url("https://use.typekit.net/af/a77a8d/00000000000000003b9b2059/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff"),url("https://use.typekit.net/af/a77a8d/00000000000000003b9b2059/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("opentype");
-font-display:auto;font-style:italic;font-weight:600;
-}
-
-@font-face {
-font-family:"neue-haas-unica";
-src:url("https://use.typekit.net/af/6559ad/00000000000000003b9b205c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"),url("https://use.typekit.net/af/6559ad/00000000000000003b9b205c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"),url("https://use.typekit.net/af/6559ad/00000000000000003b9b205c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:700;
-}
-
-@font-face {
-font-family:"neue-haas-unica";
-src:url("https://use.typekit.net/af/18efc2/00000000000000003b9b205e/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"),url("https://use.typekit.net/af/18efc2/00000000000000003b9b205e/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"),url("https://use.typekit.net/af/18efc2/00000000000000003b9b205e/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
-font-display:auto;font-style:italic;font-weight:400;
-}
-
-@font-face {
-font-family:"neue-haas-unica";
-src:url("https://use.typekit.net/af/3da9bf/00000000000000003b9b2063/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"),url("https://use.typekit.net/af/3da9bf/00000000000000003b9b2063/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"),url("https://use.typekit.net/af/3da9bf/00000000000000003b9b2063/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-font-display:auto;font-style:normal;font-weight:400;
-}
+    @font-face {
+      font-family: 'NeueHaasUnicaPro';
+      src: url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_0_0.woff") format("woff"), url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_0_0.woff2") format("woff2");
+      font-weight: bold;
+      font-style: normal;
+      mso-font-alt: 'Arial';
+    }
