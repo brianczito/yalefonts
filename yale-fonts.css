@@ -16,16 +16,15 @@
 
     @font-face {
       font-family: 'NeueHaasUnicaPro';
-      src: url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff") format("woff"), url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff2") format("woff2");
-      font-weight: normal;
-      font-style: normal;
+      src: url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff") format("woff");
+      font-style: 400;
       mso-font-alt: 'Arial';
     }
 
     @font-face {
       font-family: 'NeueHaasUnicaPro';
-      src: url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_0_0.woff") format("woff"), url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_0_0.woff2") format("woff2");
-      font-weight: bold;
+      src: url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_0_0.woff") format("woff");
+      font-weight: 700;
       font-style: normal;
       mso-font-alt: 'Arial';
     }
