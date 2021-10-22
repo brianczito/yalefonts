@@ -3,10 +3,3 @@ font-family:"Yale";
 src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.woff") format("woff"),url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.eot") format("eot"),url("https://sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.ttf") format("truetype");
 font-display:auto;font-style:normal;font-weight:400;mso-font-alt:'Georgia';
 }
-
-
-@font-face {
-font-family:"NeueHaasUnicaPro";
-src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.woff") format("woff"),url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.eot") format("eot"),url("https://sites/all/themes/yalesom/assets/dist/fonts/3790C2_2_0.ttf") format("truetype");
-font-display:auto;font-style:normal;font-weight:400;mso-font-alt:'Sans-Serif';
-}
