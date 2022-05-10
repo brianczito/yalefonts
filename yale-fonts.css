@@ -1,5 +1,5 @@
 @font-face {
-font-family:"Yale";
-src:url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.woff") format("woff"),url("https://som.yale.edu/sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.eot") format("eot"),url("https://sites/all/themes/yalesom/assets/dist/fonts/yaledesign-medium-webfont.ttf") format("truetype");
+font-family:"YaleNew";
+src:url("https://som.yale.edu/themes/custom/som/fonts/yalenew/YaleNew-Roman.woff2") format("woff2");
 font-display:auto;font-style:normal;font-weight:400;mso-font-alt:'Georgia';
 }
