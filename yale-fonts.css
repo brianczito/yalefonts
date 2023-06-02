@@ -6,7 +6,7 @@ font-display:auto;font-style:normal;font-weight:400;mso-font-alt:'Georgia';
 
 @font-face {
   font-family: "Stencil";
-  font-display: swap;
+  font-display: auto;
   font-style: normal;
   src: url("https://som.yale.edu/themes/custom/som/fonts/LT2Stencil-Large.woff2") format("woff2");
 }
