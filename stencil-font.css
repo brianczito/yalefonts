@@ -1,5 +1,6 @@
 @font-face {
-font-family:"Stencil";
-src:url("https://som.yale.edu/themes/custom/som/fonts/LT2Stencil-Large.woff2") format("woff2");
-font-display:auto;font-style:normal;
+  font-family: 'Stencil';
+  font-style: normal;
+  font-weight: 400;
+  src: url(https://som.yale.edu/themes/custom/som/fonts/LT2Stencil-Large.woff2) format('woff2');
 }
